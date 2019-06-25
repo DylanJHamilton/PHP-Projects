@@ -81,7 +81,7 @@
   <link rel="stylesheet" type="text/css" href="css/style.css">
   <title>Login to SocialiZe</title>
 </head>
-<body class="bg-primary">
+<body id="bg-primary">
   <div class="container">
     <div class="row">
       <div class="col-md-6 mx-auto">
