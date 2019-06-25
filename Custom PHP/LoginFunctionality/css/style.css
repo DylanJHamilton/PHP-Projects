@@ -1,0 +1,18 @@
+.header{
+    width:100%;
+    padding: 10px 20px 10px;
+    background:#6e0c0c;
+    margin: 0;
+    color:#fff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+div.form{
+    padding:300px;
+    border: 1px solid #000000;
+}
+
+#bg-primary{
+    background:#328ea5;
+}
